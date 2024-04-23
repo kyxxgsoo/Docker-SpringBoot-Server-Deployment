@@ -1,0 +1,6 @@
+[submodule "Docker-SpringBoot-Server-Deployment-Config"]
+	path = Docker-SpringBoot-Server-Deployment-Config
+	url = https://github.com/kyxxgsoo/Docker-SpringBoot-Server-Deployment-Config.git
+[submodule "config"]
+	path = config
+	url = https://github.com/kyxxgsoo/Docker-SpringBoot-Server-Deployment-Config.git
