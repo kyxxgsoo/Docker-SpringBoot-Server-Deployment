@@ -14,4 +14,9 @@ public class HomeController {
     public String home() {
         return "Hello CI/CD! version: " + version;
     }
+
+    @GetMapping("/liver")
+    public String getNickname() {
+        return "My name is liver";
+    }
 }
