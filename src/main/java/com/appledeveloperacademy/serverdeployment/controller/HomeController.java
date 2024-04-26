@@ -12,6 +12,6 @@ public class HomeController {
 
     @GetMapping("/")
     public String home() {
-        return "Hello CICD! version: " + version;
+        return "Hello CI/CD! version: " + version;
     }
 }
